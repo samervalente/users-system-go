@@ -1,9 +1,10 @@
-package main 
+package main
+
 import (
 	"fmt"
 	"log"
 	"os"
-	
+
 	"github.com/joho/godotenv"
 )
 
